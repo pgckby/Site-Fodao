@@ -1,0 +1,17 @@
+h1{
+  color: blueviolet;
+  filter: saturate(1000%);
+  background-color: lavender;
+  font-family: "Times New Roman", serif;
+  font-size: 40px;
+  box-shadow: 2px 4px 16px rgba(50, 0, 130, 0.4);
+
+  
+}
+h2{
+  font-family: Georgia, serif;
+  color: lightskyblue;
+  font-size: 32px;
+  background: radial-gradient(circle, #800080, #808080);
+}
+  
